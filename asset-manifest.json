@@ -1,16 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.3c7585f6.css",
-    "main.js": "/static/js/main.9767a9fe.js",
-    "static/js/787.c9f4de24.chunk.js": "/static/js/787.c9f4de24.chunk.js",
-    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/index.html",
-    "main.3c7585f6.css.map": "/static/css/main.3c7585f6.css.map",
-    "main.9767a9fe.js.map": "/static/js/main.9767a9fe.js.map",
-    "787.c9f4de24.chunk.js.map": "/static/js/787.c9f4de24.chunk.js.map"
+    "main.css": "/secret-santa/static/css/main.3c7585f6.css",
+    "main.js": "/secret-santa/static/js/main.8b926700.js",
+    "static/js/787.c9f4de24.chunk.js": "/secret-santa/static/js/787.c9f4de24.chunk.js",
+    "index.html": "/secret-santa/index.html",
+    "main.3c7585f6.css.map": "/secret-santa/static/css/main.3c7585f6.css.map",
+    "main.8b926700.js.map": "/secret-santa/static/js/main.8b926700.js.map",
+    "787.c9f4de24.chunk.js.map": "/secret-santa/static/js/787.c9f4de24.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3c7585f6.css",
-    "static/js/main.9767a9fe.js"
+    "static/js/main.8b926700.js"
   ]
 }
